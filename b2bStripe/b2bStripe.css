@@ -1,0 +1,25 @@
+.form-bg {
+    background-color: rgb(114, 108, 108);
+    border-radius: 200px;
+}
+.c-container {
+    border: 1px solid #101010;
+    margin: 10px 0 20px 0;
+}
+ .large {
+    height: 200px;
+}
+ .x-large {
+    height: 300px;
+}
+.custom-box {
+    text-align: left;
+    background-color: #9f9f9f;
+    padding: 1rem;
+    border: 1px solid #d8dde6;
+}
+.paymentmethod{
+    text-align:center;
+    color: black;
+    font-size: large;
+}
