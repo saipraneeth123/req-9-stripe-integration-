@@ -1,8 +1,3 @@
-// =============================================================================================
-//  Object: QueryUtils
-//  Company: Salesforce
-//  Purpose: Query Builder/Factory to create Query Dynamically.
-// =============================================================================================
 public class QueryUtils
 {
     public Schema.SObjectType table {get; private set;}
